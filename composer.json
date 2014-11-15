@@ -1,5 +1,5 @@
 {
-  "name": "wikidata/store",
+  "name": "wikibase/store",
   "type": "library",
   "autoload": {
     "psr-4" : {
