@@ -1,0 +1,9 @@
+{
+  "name": "wikidata/store",
+  "type": "library",
+  "autoload": {
+    "psr-4" : {
+      "Wikibase\\Store\\": "src/"
+	}
+  }
+}
